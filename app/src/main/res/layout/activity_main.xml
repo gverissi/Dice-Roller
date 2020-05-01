@@ -14,8 +14,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_weight="1"
-        android:src="@drawable/empty_dice"
-        tools:src="@drawable/dice_1"
+        app:srcCompat="@drawable/empty_dice"
+        tools:srcCompat="@drawable/dice_1"
         android:contentDescription="Dice image" />
 
     <Button
